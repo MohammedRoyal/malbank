@@ -1,0 +1,11 @@
+bill_ref,customerId,bill_amount,currency_code,payment_date,success_flag
+BILL_1,cust_1646,221.48,AED,2026-04-19,True
+BILL_2,cust_1064,713.43,USD,2026-05-07,False
+BILL_3,cust_1966,88.46,USD,2026-04-16,True
+BILL_4,cust_1399,355.83,AED,2026-04-13,True
+BILL_5,cust_1039,53.95,AED,2026-04-30,False
+BILL_6,cust_1664,362.68,USD,2026-04-20,False
+BILL_7,cust_1058,185.84,USD,2026-04-19,True
+BILL_8,cust_1357,120.59,AED,2026-04-19,True
+BILL_9,cust_1661,556.35,USD,2026-04-24,False
+BILL_10,cust_1790,331.74,AED,2026-04-10,True
